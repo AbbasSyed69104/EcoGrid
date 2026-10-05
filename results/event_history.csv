@@ -1,0 +1,4 @@
+event_id,event_type,timestamp,payload
+581d7b5a-21ee-4235-beaa-c2f881386d37,EnergyAvailable,2026-10-05T09:37:42.306366+00:00,"{""meter_id"": ""SM-001"", ""seller_id"": ""SELLER-001"", ""available_kwh"": 6.5}"
+b0e0c26b-ab9c-43e9-ab31-a39775ab35cb,TradeCreated,2026-10-05T09:37:42.306734+00:00,"{""trade_id"": ""9f4f87c9-c59f-44ef-b0fe-3d520257d5a5"", ""offer_id"": ""ca5e6edd-7c55-46b1-a643-7ed7a4d0994c"", ""seller_id"": ""SELLER-001"", ""buyer_id"": ""BUYER-001"", ""energy_kwh"": 3.0, ""amount"": 0.75, ""timestamp"": ""2026-10-05T09:37:42.306725+00:00"", ""status"": ""CREATED""}"
+a7746694-b458-469c-9c09-ace1923f675c,SettlementCompleted,2026-10-05T09:37:42.306830+00:00,"{""settlement_id"": ""e2f7b195-d392-49e7-93e9-d363d700713b"", ""trade_id"": ""9f4f87c9-c59f-44ef-b0fe-3d520257d5a5"", ""seller_id"": ""SELLER-001"", ""buyer_id"": ""BUYER-001"", ""amount"": 0.75, ""currency"": ""USD"", ""status"": ""COMPLETED"", ""timestamp"": ""2026-10-05T09:37:42.306823+00:00""}"

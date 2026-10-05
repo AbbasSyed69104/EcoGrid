@@ -1,0 +1,2 @@
+settlement_id,trade_id,seller_id,buyer_id,amount,currency,status,timestamp
+e2f7b195-d392-49e7-93e9-d363d700713b,9f4f87c9-c59f-44ef-b0fe-3d520257d5a5,SELLER-001,BUYER-001,0.75,USD,COMPLETED,2026-10-05T09:37:42.306823+00:00
